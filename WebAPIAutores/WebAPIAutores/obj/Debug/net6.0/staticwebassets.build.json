@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "KwVUuj1nxLxAMPkXn/SXPrnApO9PsRj8QXkZ/WByzWQ=",
+  "Source": "WebAPIAutores",
+  "BasePath": "_content/WebAPIAutores",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "WebAPIAutores/wwwroot",
+      "Source": "WebAPIAutores",
+      "ContentRoot": "/Users/eduardodominguez/Desktop/Cursos/WebAPIAutores/WebAPIAutores/WebAPIAutores/wwwroot/",
+      "BasePath": "_content/WebAPIAutores",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}
